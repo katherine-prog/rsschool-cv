@@ -18,6 +18,10 @@ I started rs-school courses because I see them as a great opportunity to dive in
 ---------------
 I have learned key aspects of HTML and CSS from several sources, including lessons on HTML-academy. 
 
+***5.Code examples***
+---------------------
+
+
 ***6.Expierience***
 -------------------
 Unfortunately, no expierience of actually working as developer.
@@ -26,3 +30,6 @@ Unfortunately, no expierience of actually working as developer.
 -----------------
 I graduated from BSU (faculty of biology, biochemistry department) in 2017. 
 
+***8.English***
+---------------
+Upper-intermediate level 
