@@ -53,4 +53,4 @@ I graduated from BSU (faculty of biology, biochemistry department) in 2017.
 
 ***8.English***
 ---------------
-Upper-intermediate level 
+Upper-intermediate from studying in university and self-education. 
